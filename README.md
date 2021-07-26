@@ -1,7 +1,6 @@
 # Counter
 
-This is a simple Vanilla JavaScript Project. Knowledge of DOM Manipulation and JavaScript methods were used to make a simple webpage change its background color with a button click.
-There are two pages: A simple page with 5 background color and hex page that loop through an array of numbers and alphabet to set up an hex property color.
+This is a simple Vanilla JavaScript Project. Knowledge of DOM Manipulation and JavaScript methods were used to make a simple webpage change that increases the changes the value of counter whenevr a button is click. There is also a reset button to rest the button clicked.
 
 - ![screenshot](./Assets/reset.png)
 - ![screenshot](./Assets/increase.png)
@@ -26,9 +25,6 @@ To get a local copy up and running follow these simple steps:
 ## :blue_book: Learning Objectives
 
 - Use Vanila JS to make a web page change its background color with a button click.
-- Apply best practices in HTML code.
-- Use CSS selectors correctly.
-- Use Flexbox to place elements in the page.
 - Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
 - Use GitHub Pages to deploy web pages.
 - Apply JavaScript best practices and language style guides in code.
