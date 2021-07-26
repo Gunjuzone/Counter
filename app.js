@@ -11,6 +11,19 @@ btns.forEach(function (btn) {
     // console.log(e.currentTarget.classList); to check the classList
     if (e.currentTarget.classList.contains('decrease')) {
       counter--;
+    } else if (e.currentTarget.classList.contains('increase')) {
+      counter++;
+    } else {
+      counter = 0;
+    }
+    if (counter < 0) {
+      value.style.color = 'red';
+    }
+    if (counter > 0) {
+      value.style.color = 'green';
+    }
+    if (counter === 0) {
+      value.style.color = 'black';
     }
     value.textContent = counter;
   });
