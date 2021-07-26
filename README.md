@@ -3,8 +3,9 @@
 This is a simple Vanilla JavaScript Project. Knowledge of DOM Manipulation and JavaScript methods were used to make a simple webpage change its background color with a button click.
 There are two pages: A simple page with 5 background color and hex page that loop through an array of numbers and alphabet to set up an hex property color.
 
-- ![screenshot](./Assets/simple.png)
-- ![screenshot](./Assets/hex.png)
+- ![screenshot](./Assets/reset.png)
+- ![screenshot](./Assets/increase.png)
+- ![screenshot](./Assets/decrease.png)
 
 ## :red_circle: Live Demo
 
@@ -44,7 +45,7 @@ To get a local copy up and running follow these simple steps:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Gunjuzone/Color_Switcher/issues).
+Feel free to check the [issues page](https://github.com/Gunjuzone/Counter/issues1).
 
 ## :grey_exclamation: Acknowledgments
 
