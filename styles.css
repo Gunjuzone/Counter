@@ -18,22 +18,20 @@ Global Styles
   box-sizing: border-box;
 }
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background: hsl(210, 36%, 96%);
   color: hsl(209, 61%, 16%);
   line-height: 1.5;
   font-size: 0.875rem;
 }
 
-
 h1,
-h4
- {
+h4 {
   letter-spacing: 0.1rem;
   text-transform: capitalize;
   line-height: 1.25;
   margin-bottom: 0.75rem;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 h1 {
   font-size: 3rem;
@@ -45,12 +43,11 @@ h4 {
   h1 {
     font-size: 4rem;
   }
-  
-  }
-  body {
-    font-size: 1rem;
-  }
-  
+}
+body {
+  font-size: 1rem;
+}
+
 nav {
   background: rgb(172, 127, 127);
   height: 3rem;
@@ -74,15 +71,13 @@ nav {
   font-size: 1.3rem;
   display: block;
 }
-  h1 {
-    line-height: 1;
-  }
+h1 {
+  line-height: 1;
 }
+
 /*  global classes */
 
-
 @media screen and (min-width: 992px) {
-  
 }
 main {
   min-height: 100vh;
